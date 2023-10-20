@@ -1,0 +1,19 @@
+.homesec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: #1abc9c ;
+
+    height: 80vh;
+    /* min-height: 100vh; */
+    /* margin-top: 100px; */
+}
+.homesec img{
+    width: 250px;
+}
+.line{
+    width: 80px;
+    height: 4px;
+}
